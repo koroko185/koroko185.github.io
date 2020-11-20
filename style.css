@@ -1,0 +1,44 @@
+body{
+    background-image: url(pai.gif);
+    background-size: 60% cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1000px;
+    text-align: center; 
+}
+.tetil{
+    font-size: 2em;
+    color: solid black;
+    font-weight: bold;
+    background-color: burlywood;
+}
+
+#demo{
+color: coral;
+font-size: 6em;
+}
+#btn{
+    size: 2em;
+    padding: 4em;
+    margin: 2em;
+    top: 100px;
+    text-align: center;
+    position: relative;
+}
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    clear: both;
+    color: white;
+    height: 40px;
+    text-align: center;
+    padding-top: 25px;
+}
+.img{
+    margin: 50px;
+    text-align: center;
+    float: left;
+}
+.content{
+    height: 70vh;
+    overflow: auto;
+}
